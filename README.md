@@ -1,2 +1,2 @@
 # Arabic_Diacritizer
-نظام هجين لتشكيل النصوص العربية | A Hybrid Arabic Diacritizer using Rules and AI logic
+نظام هجين مبدئي لتشكيل النصوص العربية يجمع بين القواعد النحوية والذكاء الاصطناعي، مطور باستخدام Python و Streamlit.
